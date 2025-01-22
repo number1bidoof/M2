@@ -3,8 +3,8 @@
     Chapter case
 
     Tinley Xeriscapes
-    Author: 
-    Date:   
+    Author: Ayah
+    Date:  1/22/2025
 
     Filename: js01b.js
 */
